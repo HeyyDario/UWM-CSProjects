@@ -1,3 +1,11 @@
+// --== CS400 Fall 2023 File Header Information ==--
+// Name: Chengtao Dai
+// Email: cdai53@wisc.edu
+// Group: C14
+// TA: Matthew Schwennesen
+// Lecturer: Florian Heimerl
+// Notes to Grader: -
+
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;

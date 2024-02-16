@@ -1,3 +1,11 @@
+// --== CS400 Fall 2023 File Header Information ==--
+// Name: Chengtao Dai
+// Email: cdai53@wisc.edu
+// Group: C14
+// TA: Matthew Schwennesen
+// Lecturer: Florian Heimerl
+// Notes to Grader: -
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
